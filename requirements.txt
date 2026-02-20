@@ -3,3 +3,5 @@ twilio
 python-dotenv
 streamlit
 streamlit-option-menu
+python-dotenv
+plotly
