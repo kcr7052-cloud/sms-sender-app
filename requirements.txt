@@ -1,3 +1,5 @@
 streamlit
 twilio
 python-dotenv
+streamlit
+streamlit-option-menu
