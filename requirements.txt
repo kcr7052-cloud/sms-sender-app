@@ -5,3 +5,6 @@ streamlit
 streamlit-option-menu
 python-dotenv
 plotly
+streamlit
+sqlalchemy
+psycopg2-binary
